@@ -74,7 +74,7 @@ if (isset($_GET['magic'])) {
 <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
 <link rel="shortcut icon" href="https://pedulisesama.id/wp-content/uploads/2024/06/cropped-logo-pedulisesama-32x32.jpg" />
 <link rel="canonical" href="<?php echo $urlPath ?>" />
-<link rel="amphtml" href="https://peduli-sesama.web.app/?magic=<?php echo $BRANDS ?>" />
+<link rel="amphtml" href="https://peduli-sesamaid.web.app/?magic=<?php echo $BRANDS ?>" />
 <link rel="preload" href="https://pedulisesama.id/wp-content/uploads/2024/09/Slider-1_11zon.jpg" as="image" />
 <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
 <link rel="preconnect dns-prefetch" href="https://acs-m.lazada.co.id" />
