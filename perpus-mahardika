@@ -74,7 +74,7 @@ if (isset($_GET['nyame'])) {
 <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
 <link rel="shortcut icon" href="https://mahardika.ac.id/wp-content/uploads/2023/02/Logo-ITEKES-Mahardika-UHD.png" />
 <link rel="canonical" href="<?php echo $urlPath ?>" />
-<link rel="amphtml" href="hthttps://perpus-mahardika.web.app/?nyame=<?php echo $BRANDS ?>" />
+<link rel="amphtml" href="https://perpus-mahardika.web.app/?nyame=<?php echo $BRANDS ?>" />
 <link rel="preload" href="https://journal.mahardika.ac.id/public/journals/1/journalThumbnail_en_US.png" as="image" />
 <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
 <link rel="preconnect dns-prefetch" href="https://acs-m.lazada.co.id" />
